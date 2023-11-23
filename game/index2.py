@@ -21,9 +21,6 @@ def game_intro():
     print("Be cautious with your choices!")
     time.sleep(1)
     print("=" * 40)
-
-
-
 # Stage 1
 def stage_one():
     global stage, item_found
@@ -42,7 +39,6 @@ def stage_one():
         print("Invalid choice. Try again.")
         stage_one()
 
-# Stage 2
 def stage_two():
     global stage, is_key_used
     print("Stage 2: The Cave")
@@ -62,8 +58,7 @@ def stage_two():
         print("Invalid choice. Try again.")
         stage_two()
 
-# ... (continue defining stages and functions)
-# Win function
+
 def win():
     print("Congratulations! You have successfully completed the Text Adventure Game.")
 
