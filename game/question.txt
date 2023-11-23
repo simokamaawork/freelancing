@@ -27,7 +27,7 @@ o	Introduces the story, game, and its objective
 o	Identifies any bugs that are not yet worked out
 
 ## what am supposed to do 
-Sounds like a fun project! Let's break it down into the key components you'll need:
+
 
 1. **Executable Script:**
    - Start with a script that runs from beginning to end.
