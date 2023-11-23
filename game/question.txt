@@ -25,3 +25,52 @@ o	1 fail() function (Executed whenever a user loses the game. There must be only
 o	Is no more than 300 words
 o	Introduces the story, game, and its objective
 o	Identifies any bugs that are not yet worked out
+
+## what am supposed to do 
+Sounds like a fun project! Let's break it down into the key components you'll need:
+
+1. **Executable Script:**
+   - Start with a script that runs from beginning to end.
+   - Utilize the necessary Python essentials mentioned (strings, functions, user input handling, conditional statements, loops, error handling).
+
+2. **Game Structure:**
+   - Design the game to be completed within a maximum of 3 minutes.
+   - Divide the game into stages (between 3 to 5 stages).
+
+3. **Variables:**
+   - Define at least 5 variables to store information relevant to the game.
+   - Ensure meaningful use of these variables within the game.
+
+4. **List:**
+   - Include at least one list in your game (perhaps to store items, choices, or game states).
+
+5. **Loops:**
+   - Use at least one `for` loop for iteration.
+   - Use at least one `while` loop for dynamic or time-based elements.
+
+6. **Conditional Statements:**
+   - Implement at least 3 nested conditional statements, each with an `else` clause.
+   - These can be used for decision-making, branching the story, or handling user choices.
+
+7. **Functions:**
+   - Create a `win()` function that executes when the user wins the game.
+   - Create a `fail()` function that executes when the user loses.
+   - Ensure there is only one function for each outcome.
+
+8. **Game Introduction:**
+   - Write a game introduction of no more than 300 words.
+   - Introduce the story, game objective, and any relevant information for the player.
+
+9. **Bug Identification:**
+   - Clearly identify any known bugs or issues in the introduction.
+   - Mention that these are aspects you are aware of and plan to work out.
+
+10. **Testing:**
+    - Test the game to ensure it can be completed within the specified time frame.
+    - Test for any logical errors or unexpected behaviors.
+
+11. **Documentation:**
+    - Include comments and documentation within your code for clarity.
+    - Mention any areas that could be improved or expanded upon in future versions.
+
+Once you have these elements in place, you should have a solid foundation for your text-based adventure game. Good luck, and have fun with the development! If you need any assistance or guidance along the way, feel free to ask.
