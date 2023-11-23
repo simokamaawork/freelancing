@@ -1,0 +1,27 @@
+Task summary:
+.
+Full order description:
+Dear freelancer.
+In this assignment, students are tasked with designing a text-based adventure gameLinks to an external site.. This game should utilize the Python essentials covered thus far, including, but not limited to:
+•	Strings and String Manipulation
+•	User-Defined Functions and Objects (variables)
+•	User Input and Input Handling
+•	Conditional and Nested Conditional Statements (if/elif/else)
+•	Loops (for/while)
+•	Controlling for Errors (try/except)
+The working version of the game should include:
+An executable script (a script that runs from beginning to end upon execution) that includes:
+•	a game that can be successfully completed within a maximum of 3 minutes (i.e., you can win the game in 3 minutes or less)
+•	for a passing grade, your text adventure game must include a minimum of:
+o	3 stages (maximum of 5 stages)
+o	5 defined variables
+o	1 list
+o	1 for loop
+o	1 while loop
+o	3 nested conditional statements (all must include an else clause)
+o	1 win() function (Executed whenever a user wins the game. There must be only one win function)
+o	1 fail() function (Executed whenever a user loses the game. There must be only one fail function)
+•	A description at the beginning of game that:
+o	Is no more than 300 words
+o	Introduces the story, game, and its objective
+o	Identifies any bugs that are not yet worked out
